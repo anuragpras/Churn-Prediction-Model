@@ -1,0 +1,21 @@
+UserID,SignupDate,Churn_Score,Score_Bucket,Churn_Segment,Recommended_Action
+200008,2024-08-15,0.99,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200184,2024-10-02,0.99,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200153,2024-09-10,0.99,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200039,2026-02-28,0.9893,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200145,2025-11-22,0.9866,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200054,2024-09-04,0.9817,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200193,2025-02-07,0.9813,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200081,2026-04-17,0.9706,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200185,2025-02-28,0.9599,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200169,2024-09-10,0.9532,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200009,2025-02-21,0.953,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200132,2026-04-15,0.9527,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200034,2025-09-02,0.9526,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200071,2025-12-31,0.9451,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200197,2025-06-12,0.9282,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200174,2025-01-04,0.9237,0.80 - 1.00,Drifting,Send content-based re-engagement campaign
+200079,2025-02-11,0.9205,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200059,2025-11-13,0.9202,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200029,2025-08-29,0.9192,0.80 - 1.00,Feature/Tech Frustrated,Send support or bug-fix communication
+200004,2025-08-23,0.9091,0.80 - 1.00,Price Sensitive,Send discount or promotional wallet offer

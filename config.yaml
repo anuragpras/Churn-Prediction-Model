@@ -1,0 +1,18 @@
+project:
+  name: churn-prediction-model
+  target_window: Churn_30D
+
+paths:
+  train_data: data/sample_train.csv
+  predict_data: data/sample_predict.csv
+  output_dir: outputs
+  model_dir: models
+
+model:
+  test_size: 0.20
+  random_state: 42
+  threshold: 0.50
+  primary_metric: recall
+
+outputs:
+  top_percent: 10
