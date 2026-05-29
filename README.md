@@ -3,6 +3,8 @@
 ## Overview
 
 This repository contains an open-source machine learning pipeline for predicting whether a user is likely to **uninstall the app or become inactive** within a selected future window.
+<img width="1536" height="1024" alt="churn" src="https://github.com/user-attachments/assets/74810129-9bce-4a1c-a6f0-023a297af5c4" />
+
 
 Supported churn windows:
 
